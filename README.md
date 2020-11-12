@@ -1,6 +1,6 @@
 # Environment for RL
 `
-docker build -t pygame:latest .  
+docker build -t docker/pygame:latest .  
 `   
 
 `
